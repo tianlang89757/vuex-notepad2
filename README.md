@@ -1,2 +1,30 @@
-# vuex-notepad2
-对vue-notepad版本有所改进，增加了废纸篓等功能,删除提示，切换布局等功能，后续还会增加新功能，敬请期待！
+# notepad-xiaomi
+
+> xiaomi notepad
+
+## Build Setup
+
+``` bash
+# install dependencies
+npm install
+
+# serve with hot reload at localhost:8080
+npm run dev
+
+# build for production with minification
+npm run build
+
+# build for production and view the bundle analyzer report
+npm run build --report
+
+# run unit tests
+npm run unit
+
+# run e2e tests
+npm run e2e
+
+# run all tests
+npm test
+```
+
+For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
