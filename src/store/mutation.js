@@ -9,7 +9,6 @@ const mutations = {
             content: '',
             done: false
         }
-        state.activeNote = newNote;
         state.notes.push(newNote)
     },
     [types.EDIT_NOTE](state, note) {
